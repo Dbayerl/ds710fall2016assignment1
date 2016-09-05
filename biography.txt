@@ -1,8 +1,24 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	-David Bayerl
+
 2. Why are you interested in Data Science?
+	-It is an exciting and rapidly growing area where I can continue to expand on my undergraduate curriculumn in Mathematics and Computer Science. 
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	-I have taken more than a handful of programming classes as part of my undergraduate curriculumn at Minnesota State University, Mankato. Most of the courses required the use of C++ for assignments.There were a couple courses though that switched things up and exposed me other languages such as Python, Java, and even assembly. As a result, I feel pretty comfortable in most object-oriented programming settings. 
+	-I have not yet had a "job" that requires the use of programming. 
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	-I have taken only a couple statistics courses. One was sort of a general introduction to statistics and the other was a more rigorous course on probability and other statistical concepts. 
+	-I have not yet had a "job" that requires the use of these statistical skills. 
+
 5.  Do you have other experience with R or Python?
+	- This summer (2016) I attended the M.A.A. seminar entitled "Big Data on the Great Planes". There I had the opportunity to attend a generalized "R workshop" and listen to several different speaking sessions about happenings in the field of big data. 
+Each of the speaking sessions were followed up with a workshop where R code was provided. Those in attendance were able to use the code to follow along with some data analysis from each speaker. 
+
 6.  What do you hope to learn in this class?
+	-I expect to obtain a more solid foundation and famililiarity with some of the programing techniques used in data science. 
+
 7.  Is there anything else you would like to share with us?
+	-Looking forward to an interesting class!
